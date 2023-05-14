@@ -1,4 +1,4 @@
-# COVID-19 detection and model optimization using Vision transformers
+# COVID-19 detection and model optimization using Vision Transformers
 
 > This is the codebase for Deep Learning Final-Project Spring 2023
 > 
@@ -10,7 +10,7 @@
 The coronavirus known as SARS-CoV-2 is the source of the illness COVID-19. Patients are screened at a medical facility using a PCR test as the first step in COVID-19 treatment. However, a medical professional makes a thorough diagnosis of the patient by examining a lung X-ray sample, which allows for the assessment of the lung damage and the progression of the infection. Because medical imaging is easy to use and quick, clinicians can diagnose illnesses and their effects more quickly. The literature has demonstrated that chest X-rays may be a source of testing for COVID-19 patients, however manually reviewing X-ray records is time-consuming and prone to error. We propose a Vision transformer model which is a deep learning pipeline for the detection of COVID-19 from chest X-ray based imaging. 
 
 ## Data
-You can find the COVID-19 dataset here: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database 
+You can find the COVID-19 dataset here: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database.
 
 It contains 6334 black-and-white images. The dataset contains four classes (a) Negative for Pneumonia, (b) Typical Appearance, (c) Intermediate Appearance, and (d) Atypical Appearance respectively.
 
