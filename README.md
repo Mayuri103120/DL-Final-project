@@ -11,6 +11,7 @@ The coronavirus known as SARS-CoV-2 is the source of the illness COVID-19. Patie
 
 ## Data
 You can find the COVID-19 dataset here: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database 
+
 It contains 6334 black-and-white images. The dataset contains four classes (a) Negative for Pneumonia, (b) Typical Appearance, (c) Intermediate Appearance, and (d) Atypical Appearance respectively.
 
 ## Model Description
